@@ -1,6 +1,6 @@
 # Rollup Plugin Index HTML
 
-Rollup plugin to make rollup understand your index.html.
+Rollup plugin to build web applications with rollup.
 
 [//]: # 'AUTO INSERT HEADER PREPUBLISH'
 
